@@ -1,0 +1,10 @@
+# Python External Libraries you will need for my project. Most of these are for data_prep.py (which you probably shouldn't
+# run) but some are needed for main.py and will cause problems if you don't get them all. Most can be easily installed
+# by simply typing 'pip install <library>' into your command line.
+
+# External Libraries
+plotly
+pandas
+geopy
+openpyxl
+statsmodels
