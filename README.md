@@ -1,4 +1,4 @@
-# restaurant-covid-analysis
+# 6-restaurant-covid-analysis
 
 This project was created to analyze the relationship between restaurants in Toronto and COVID-19 cases across forward sortation areas (FSAs, the first three digits of your postal code) across various metrics like number of restaurants, health infractions, etc.
 
